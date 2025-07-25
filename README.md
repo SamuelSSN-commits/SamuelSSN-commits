@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Apaixonado por tecnologia, estou em constante evolução na área de Desenvolvimento de Software.  <br>Atualmente estou focado em me tornar um **Desenvolvedor Full Stack**, com base sólida em lógica de programação e um olhar voltado para soluções reais.</p>
+<p align="left">💻 Apaixonado por tecnologia, estou em constante evolução na área de Desenvolvimento de Software.  <br>Atualmente estou focado em me tornar um Desenvolvedor Full Stack, com base sólida em lógica de programação e um olhar voltado para soluções reais.</p>
 
 ###
 
