@@ -54,15 +54,15 @@
 
 ###
 
+<p align="left">⚠️ A IA não vai substituir os programadores — mas quem souber usá-la, vai substituir quem não souber.</p>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelSSN-commits/SamuelSSN-commits/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelSSN-commits/SamuelSSN-commits/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SamuelSSN-commits/SamuelSSN-commits/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<p align="left">⚠️ A IA não vai substituir os programadores — mas quem souber usá-la, vai substituir quem não souber.</p>
 
 ###
 
